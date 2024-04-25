@@ -11,3 +11,4 @@ Any provers added to this page must be tested by the team to ensure they have go
 
 | Name   | Endpoint                              |
 | ------ | ------------------------------------- |
+| DonKamote | http://taiko.donkamote.xyz         |
